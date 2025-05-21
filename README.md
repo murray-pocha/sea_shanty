@@ -35,9 +35,10 @@ Ahoy! This Node.js app serves a tutorial-style HTML page styled like a sea shant
 
 ```bash
 npm install
+
 2. Start the Server
-
-
 node server.js
+
+
 3. View in Browser
 Visit: http://localhost:3000
